@@ -12,7 +12,7 @@ const truncateString = (str,num)=>{
 };
 // const options = {
 //   method: 'GET',
-//   url: 'https://ott-details.p.rapidapi.com/advancedsearch',
+//   url: '',
 //   params: {
 //     start_year: '1970',
 //     end_year: '2020',
@@ -25,8 +25,8 @@ const truncateString = (str,num)=>{
 //     page: '1'
 //   },
 //   headers: {
-//     'X-RapidAPI-Key': 'c11a7ae694msh7a567b8a630c565p1da12cjsneeb55a2b6bd6',
-//     'X-RapidAPI-Host': 'ott-details.p.rapidapi.com'
+//     'X-RapidAPI-Key': '',
+//     'X-RapidAPI-Host': ''
 //   }
 // };
 
